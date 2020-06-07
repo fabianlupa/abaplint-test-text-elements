@@ -17,3 +17,5 @@
 INCLUDE lztest_abaplintsel.
 
 INCLUDE lztest_abaplintf01.
+
+INCLUDE lztest_abaplintsxx.

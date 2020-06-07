@@ -39,6 +39,18 @@
      <LENGTH>98</LENGTH>
     </item>
     <item>
+     <ID>I</ID>
+     <KEY>005</KEY>
+     <ENTRY>Another one bites the dust</ENTRY>
+     <LENGTH>52</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>006</KEY>
+     <ENTRY>Another text</ENTRY>
+     <LENGTH>22</LENGTH>
+    </item>
+    <item>
      <ID>S</ID>
      <KEY>P_TEST</KEY>
      <ENTRY>Test-mode</ENTRY>
