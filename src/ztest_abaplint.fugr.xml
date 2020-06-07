@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Test</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZTEST_ABAPLINTTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZTEST_ABAPLINT</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZTEST_ABAPLINT_SHOW</FUNCNAME>
+     <SHORT_TEXT>Test</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
