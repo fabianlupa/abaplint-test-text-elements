@@ -13,3 +13,5 @@
 * INCLUDE LZTEST_ABAPLINTE...                " Events
 * INCLUDE LZTEST_ABAPLINTP...                " Local class implement.
 * INCLUDE LZTEST_ABAPLINTT99.                " ABAP Unit tests
+
+INCLUDE lztest_abaplintsel.

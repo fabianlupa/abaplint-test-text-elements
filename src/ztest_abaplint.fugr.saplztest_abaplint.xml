@@ -20,6 +20,18 @@
      <ENTRY>Hello!</ENTRY>
      <LENGTH>16</LENGTH>
     </item>
+    <item>
+     <ID>I</ID>
+     <KEY>002</KEY>
+     <ENTRY>Bye!</ENTRY>
+     <LENGTH>14</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_TEST</KEY>
+     <ENTRY>Test-mode</ENTRY>
+     <LENGTH>17</LENGTH>
+    </item>
    </TPOOL>
   </asx:values>
  </asx:abap>
