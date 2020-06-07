@@ -27,6 +27,12 @@
      <LENGTH>14</LENGTH>
     </item>
     <item>
+     <ID>S</ID>
+     <KEY>P_TEST</KEY>
+     <ENTRY>Test-mode</ENTRY>
+     <LENGTH>17</LENGTH>
+    </item>
+    <item>
      <ID>I</ID>
      <KEY>003</KEY>
      <ENTRY>This is another text that maybe is listed after the selscreen texts?</ENTRY>
@@ -49,12 +55,6 @@
      <KEY>006</KEY>
      <ENTRY>Another text</ENTRY>
      <LENGTH>22</LENGTH>
-    </item>
-    <item>
-     <ID>S</ID>
-     <KEY>P_TEST</KEY>
-     <ENTRY>Test-mode</ENTRY>
-     <LENGTH>17</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
