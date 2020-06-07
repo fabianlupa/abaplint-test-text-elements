@@ -15,3 +15,5 @@
 * INCLUDE LZTEST_ABAPLINTT99.                " ABAP Unit tests
 
 INCLUDE lztest_abaplintsel.
+
+INCLUDE lztest_abaplintf01.

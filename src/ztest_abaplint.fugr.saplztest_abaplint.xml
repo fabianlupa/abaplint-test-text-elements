@@ -27,6 +27,18 @@
      <LENGTH>14</LENGTH>
     </item>
     <item>
+     <ID>I</ID>
+     <KEY>003</KEY>
+     <ENTRY>This is another text that maybe is listed after the selscreen texts?</ENTRY>
+     <LENGTH>80</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>004</KEY>
+     <ENTRY>and another text that is not in the code directly</ENTRY>
+     <LENGTH>98</LENGTH>
+    </item>
+    <item>
      <ID>S</ID>
      <KEY>P_TEST</KEY>
      <ENTRY>Test-mode</ENTRY>
